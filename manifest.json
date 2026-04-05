@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "i3tabs",
   "version": "1.0.0",
-  "description": "Move the active tab to a specific position using keyboard shortcuts (Alt+Shift+1-9).",
+  "description": "i3 tab management for Firefox",
   "icons": {
     "16": "assets/icon-16.png",
     "32": "assets/icon-32.png",
@@ -53,6 +53,14 @@
     "move-tab-9": {
       "suggested_key": { "default": "Alt+Shift+9" },
       "description": "Move active tab to position 9"
+    },
+    "navigate-tab-left": {
+      "suggested_key": { "default": "Alt+H" },
+      "description": "Switch to the tab on the left"
+    },
+    "navigate-tab-right": {
+      "suggested_key": { "default": "Alt+L" },
+      "description": "Switch to the tab on the right"
     }
   }
 }
