@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "i3tabs",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "i3 tab management for Firefox",
   "icons": {
     "16": "assets/icon-16.png",
@@ -10,6 +10,16 @@
     "96": "assets/icon-96.png",
     "128": "assets/icon-128.png"
   },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "mammadovagil@tutamail.com",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+      
 
   "permissions": ["tabs"],
 
