@@ -65,11 +65,9 @@
       "description": "Move active tab to position 9"
     },
     "navigate-tab-left": {
-      "suggested_key": { "default": "Alt+H" },
       "description": "Switch to the tab on the left"
     },
     "navigate-tab-right": {
-      "suggested_key": { "default": "Alt+L" },
       "description": "Switch to the tab on the right"
     }
   }
