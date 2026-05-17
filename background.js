@@ -1,5 +1,5 @@
 /**
- * i3tabs - background.js
+ * vi-tabs - background.js
  *
  * Listens for keyboard commands:
  *   Alt+Shift+1–9  → move the active tab to that position
