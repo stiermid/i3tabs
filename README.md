@@ -1,7 +1,7 @@
-# i3tabs
+# vi-tabs
 
-A Firefox extension that lets you move the active tab to a specific position
-using keyboard shortcuts — inspired by i3's workspace-switching behaviour.
+A Firefox extension that lets you move and navigate tabs using vi-style keyboard
+shortcuts — inspired by vi motions.
 
 ## Shortcuts
 
