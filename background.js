@@ -3,8 +3,8 @@
  *
  * Listens for keyboard commands:
  *   Alt+Shift+1–9  → move the active tab to that position
- *   Alt+K          → switch to the tab on the left (wraps around)
- *   Alt+J          → switch to the tab on the right (wraps around)
+ *   Alt+K          → switch to the previous tab (wraps around)
+ *   Alt+J          → switch to the next tab (wraps around)
  *
  * The tabs API uses zero-based indexing, so "position 1" maps to index 0,
  * "position 2" maps to index 1, etc.
